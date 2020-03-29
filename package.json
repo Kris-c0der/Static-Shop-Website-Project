@@ -1,0 +1,16 @@
+{
+  "name": "best_shop",
+  "version": "1.0.0",
+  "description": "HTML and CSS Workshop Project. A one page shop website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krzysztof Kozak",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5"
+  }
+}
